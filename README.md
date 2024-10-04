@@ -1,6 +1,6 @@
 # 👨‍💻 Luis David Pumacondor Salvador - Backend Developer
 
-¡Hola! Soy **Luis David Pumacondor Salvador**, un apasionado **Backend Developer** con más de 6 años de experiencia en desarrollo de software, especializado en **Java** y el ecosistema de **Spring Boot**. Actualmente trabajo como **Analista Programador Backend** en **EbizLatin**, donde desarrollo microservicios y arquitecturas escalables utilizando herramientas modernas.
+¡Hola! Soy **Luis David Pumacondor Salvador**, un apasionado **Backend Developer** con más de 2 años de experiencia en desarrollo de software, especializado en **Java** y el ecosistema de **Spring Boot**. Actualmente trabajo como **Analista Programador Backend** en **EbizLatin**, donde desarrollo microservicios y arquitecturas escalables utilizando herramientas modernas.
 
 ## 🚀 Stack Tecnológico
 
