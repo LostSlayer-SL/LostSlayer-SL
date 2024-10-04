@@ -5,6 +5,12 @@
 ## 🚀 Stack Tecnológico
 
 ### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
 - **Java** (8, 11, 17)
 - **Spring Boot**
   - Spring MVC
@@ -25,10 +31,15 @@
   - JPA/Hibernate
 - **CI/CD**
   - **Jenkins**
-  - Azure DevOps (Pipelines)
-  - Dockerizado de servicios
+  - **Azure DevOps** (Pipelines)
+  - Dockerización de servicios
 
 ### DevOps y Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 - **Docker** (para contenedorización de aplicaciones)
 - **Kubernetes** (básico)
 - **Azure DevOps**
@@ -36,6 +47,7 @@
 - **SonarQube** (análisis de calidad de código)
 
 ### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 - **Angular** (proyectos personales, integración con API Gateway)
 
 ## 📚 Lo que estoy aprendiendo
@@ -48,6 +60,12 @@
 ## 🌱 Proyectos Actuales
 - **Pollería El Ruedo**: Un sistema de gestión de pedidos en tiempo real usando microservicios con Spring Boot, Angular, y un API Gateway.
 - **Pati Café**: Desarrollo de un carrito de compras con Java Spring Boot, Thymeleaf y servicios para manejo de productos.
+
+## 🛠 Herramientas que utilizo
+
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 📫 Contacto
 - **Email**: [ldpumacondor@example.com](mailto:ldpumacondor@example.com)
