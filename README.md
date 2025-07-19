@@ -14,9 +14,6 @@
 - **Java** (8, 11, 17)
 - **Spring Boot**
   - Spring MVC
-  - Spring WebFlux (para aplicaciones reactivas)
-  - Spring Cloud (API Gateway, Circuit Breaker)
-  - Spring Security (OAuth2, JWT)
 - **Microservicios**
   - Patrones Saga y Event-Driven
   - Resiliencia de código con Circuit Breaker
